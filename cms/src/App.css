@@ -1,0 +1,125 @@
+.bg-color-navbar{
+  background-color: #723fb5;
+}
+
+.title-navbar{
+  color: #fff;
+  font-size: 30px;
+}
+
+.nav-link{
+  border: 2px solid #fff; 
+  border-radius: 18px;
+}
+
+.nav-logout{
+	background: #46de4b;
+	font-size: 14pt;
+  color: white;
+	width: 100%;
+	border: none;
+	border-radius: 8px;
+	padding: 10px 20px;
+  text-decoration: none;
+}
+
+li{
+  padding-right:40px;
+}
+
+.item-style span{
+  padding-right:7px
+}
+
+.align-items-center{
+  margin: 10px auto;
+	padding: 5px 350px;
+}
+
+.checkfulltime {
+  margin: 2px auto;
+  padding-left: 3px;
+}
+
+.search-btn button{
+  box-sizing: border-box;
+  background-color:#723fb5 ;
+  border: 3px solid #723fb5; 
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+}
+
+.search-btn{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nav-detail{
+  box-sizing: border-box;
+  background-color:#46de4b ;
+  border: 3px solid #46de4b; 
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  height: 35px;
+  text-align: center;
+  padding: 3px 10px;
+  margin: 20px;
+}
+
+.text-detail {
+  margin: 20px auto;
+  padding: 50px;
+}
+
+.text-joblist {
+  margin: 5px auto;
+  padding-left: 10px;
+}
+
+.title-job {
+  color: blue;
+}
+
+.type-job {
+  color: #46de4b;
+}
+
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #723fb5;
+  overflow-x: hidden;
+  padding-top: 80px;
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #b1adad;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #ffffff;
+}
+
+.main {
+  margin-left: 200px; /* Same as the width of the sidenav */
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}

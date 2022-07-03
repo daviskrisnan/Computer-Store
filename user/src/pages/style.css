@@ -1,0 +1,98 @@
+
+.bg-col-1{
+    background-color: #d9d6d4;
+    border-radius:10px;
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    margin: 150px auto;
+	padding: 5px 30px;
+}
+
+.bg-col-1 h1{
+    padding-top: 20px;
+}
+
+.bg-col-2{
+    background-color: #d9d6d4;
+    border-radius: 10px;
+    text-align: center;
+    width: 500px;
+    height: 700px;
+    margin: 20px auto;
+	padding: 5px 30px;
+}
+
+.bg-col-2 h1{
+    padding-top: 10px;
+}
+
+.input-align-login{
+    margin-top: 30px;
+}
+
+.submit-btn button{
+    box-sizing: border-box;
+    background-color:#723fb5 ;
+    border: 3px solid #723fb5; 
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    width: 240px;
+    height: 40px;
+    text-align: center;
+}
+  
+.submit-btn{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.color-full-page{
+    background-color: #d9d6d4;
+}
+
+.col-bg{
+    background-color:white;
+    border-radius: 10px;
+    width: 600px;
+    height: 660px;
+}
+
+.line-white{
+    background-color: transparent;
+}
+
+.bg-color-product{
+    background-color: #723fb5;
+}
+
+.card-style{
+    max-width: 1000px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.row-bg-color{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.bg-color-product{
+    background-color: #723fb5;
+}
+
+.product-title{
+    text-align: center;
+}
+
+.bg-color-order{
+    background-color: #723fb5;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.text-align{
+    padding-left: 37px;
+}
